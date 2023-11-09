@@ -1,0 +1,10 @@
+[browser]
+gatherUsageStats = false
+
+[server]
+runOnSave = true
+maxMessageSize = 500
+enableStaticServing = true
+
+[theme]
+base = 'dark'

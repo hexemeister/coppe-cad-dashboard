@@ -1,0 +1,39 @@
+/* geral */
+div.block-container{
+    padding-top: 1rem;
+}
+/* tema dark */
+.logocoppe {
+    max-width: 144px;
+    background-color: #822433;
+    padding: 1rem;
+    margin: 5px;
+}
+
+.logocad {
+    max-width: 144px;
+    background-color: #FFF;
+    padding: 1rem;
+    margin: 5px;
+}
+
+/* tema light COPPE logo*/
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section.st-emotion-cache-vk3wp9.eczjsme11 > div.st-emotion-cache-6qob1r.eczjsme3 > div.st-emotion-cache-10oheav.eczjsme4 > div > div:nth-child(1) > div > div.st-emotion-cache-ocqkz7.e1f1d6gn3 > div:nth-child(1) > div:nth-child(1) > div > div > div > div > div > img {
+    background-color: #822433;
+    padding: 1rem;
+}
+/* tema light CAD logo*/
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section.st-emotion-cache-vk3wp9.eczjsme11 > div.st-emotion-cache-6qob1r.eczjsme3 > div.st-emotion-cache-10oheav.eczjsme4 > div > div:nth-child(1) > div > div.st-emotion-cache-ocqkz7.e1f1d6gn3 > div:nth-child(2) > div:nth-child(1) > div > div > div > div > div > img {
+    background-color: #fcfffe;
+    padding: 1rem;
+}
+
+/* remove made with streamlit */
+footer {
+    visibility: hidden;
+    display: none;
+}
+
+.stPlotlyChart {
+    height: 60vh !important;
+}
